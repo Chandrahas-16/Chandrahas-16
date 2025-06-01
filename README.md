@@ -1,31 +1,24 @@
 # 💻 Chandrahas | Aspiring Software Development Engineer
 
-Hi there! I'm **Chandrahas**, a final-year Computer Science and Engineering student passionate about solving real-world problems through code. I'm on a journey to become an SDE, with a strong focus on **Data Structures, Algorithms**, and **Full-Stack Development**.
+Hi there! I'm **Chandrahas**, a final-year Computer Science and Engineering student passionate about solving real-world problems through code. I'm on a journey to become an SDE, with a strong focus on **Data Structures, Algorithms**, and **Front-End Development**.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Pursuing BTech in Computer Science and Engineering  
-- 👨‍💻 Preparing for SDE roles (especially Amazon, my dream company!)  
-- 🔍 Constantly learning and building cool things with code  
+- 👨‍💻 Preparing for SDE roles.  
+- 🔍 Constantly learning and building cool things with code.  
 - 💡 Passionate about clean code, scalable systems, and UI/UX  
-- 📍 Based in South India  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `Python` `C++` `JavaScript`  
-
-**Frontend:**  
-`HTML` `CSS` `React.js` `Android (Java)`  
-
-**Backend & DB:**  
-`Node.js` `Express` `Firebase` `MySQL` `SQLite`  
+**Technical Skills:**  
+`Java` `Data Structures` `HTML` `CSS` `Javascript` `SQL`  
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Android Studio` `Figma`
+`Git` `GitHub` `VS Code` `Canva` `Excel`
 
 ---
 
