@@ -24,7 +24,7 @@ Hi there! I'm **Chandrahas**, a final-year Computer Science and Engineering stud
 
 ## 📈 What I’m Currently Working On
 - Improving my problem-solving skills on **LeetCode** and **GeeksforGeeks**  
-- Building personal projects using **Front-End** 
+- Building personal projects using **Web-Technologies** 
 - Preparing for SDE interviews by mastering core CS concepts
 
 ---
