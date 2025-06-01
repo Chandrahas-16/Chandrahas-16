@@ -30,9 +30,8 @@ Hi there! I'm **Chandrahas**, a final-year Computer Science and Engineering stud
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🌐 [Portfolio (Coming Soon)]()
-- 📧 Email: youremail@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/chandrahas-gopa)
+- 📧 Email:chandrahasgopa@gmail.com
 
 ---
 
